@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[16]:
-
-
 def bubble(mylist, i, j):
     '''
     Objective: helper function to partially sort a list by placing the smallest value at the first position of the unsorted list
@@ -36,17 +30,6 @@ def bubbleSort(mylist, start=0, end=-1):
         n = bubble(mylist, start, end)
         bubbleSort(mylist, start+1, end)
 
-
-# In[17]:
-
-
 lst1 = [10, 60, 30, 20, 80, 5, 96, 33]
 bubbleSort(lst1)
 print(lst1)
-
-
-# In[ ]:
-
-
-
-
