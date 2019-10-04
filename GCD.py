@@ -4,7 +4,7 @@ def gcd(a, b):
     Input Parameters:
         a: an integer
         b: an integer
-    Return Values: gcd of a & b
+    Return Values: gcd of a and b
     '''
     if b == 0:
         return a
