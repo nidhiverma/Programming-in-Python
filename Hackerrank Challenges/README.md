@@ -1,3 +1,3 @@
 # Hackerrank Challenges
 
-This folder contains olutions of Hackerrank challenges.
+This folder contains solutions of Hackerrank challenges.
