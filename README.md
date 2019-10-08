@@ -1,2 +1,2 @@
-# PytHon Programming
-This repository contains programming problems solving using python
+# Python Programming
+Programming problems implemented in Python
