@@ -1,0 +1,9 @@
+101,Megha,80
+102,Diya,79
+103,Nidhi,85
+104,Prateek,89 
+105,Manas,75
+106,Anurag,97
+107,Neha,65
+108,Sumit,70
+109,Nitin,95
